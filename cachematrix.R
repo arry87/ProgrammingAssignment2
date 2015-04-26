@@ -1,7 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
+## makeCacheMatrix basically creates a cached matrix and cacheSolve solves the matrix and retrieves the
+## vaule of the solution from the cache depending on whether the matrix was already set with the makeCacheMatrix function
 
 makeCacheMatrix <- function(x = matrix()) {
 
